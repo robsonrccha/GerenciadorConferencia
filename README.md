@@ -1,40 +1,28 @@
-# Eccommerce Comercio
-## Curso Livre Senai - Banco de Dados para Data Science
+# Projeto proposto pelo curso de Modelagem de Dados - Alura
 
 
-## Introdução
-> Criação de um eccommerce simples para análise de dados, utilizando SGBD MySQL.
+## Introdução aos Requisitos
+> Para desenvolver um sistema eficiente de gerenciamento de conferências científicas, é necessário entender e capturar diversos aspectos de como as conferências são organizadas, quais são os participantes envolvidos e quais atividades ocorrem. Então, temos as seguintes informações
+
+> Cada conferência tem um título único, data de realização, local e um tema central. As conferências podem ser compostas por várias sessões temáticas diferentes. Um participante pode ser um palestrante, ouvinte registrado e organizadores. Cada participante possui dados pessoais como nome, filiação institucional, contato e tipo de participação no evento.
+
+> Cada sessão dentro de uma conferência aborda subtemas específicos do tema central. Uma sessão inclui data e hora da apresentação, múltiplas apresentações e é coordenada por um ou mais organizadores. Cada apresentação tem um título, um resumo, duração prevista e é atribuída a um palestrante específico. Apresentações podem incluir também materiais de suporte como slides ou vídeos.
+
+> Artigos ou resumos são submetidos por palestrantes para avaliação antes de serem aceitos para apresentação. Cada submissão precisa ter informações dos artigos ou resumos, como título, resumo, data e o status, e cada uma das submissões é avaliada por revisores designados. São especialistas em tópicos específicos e responsáveis por avaliar as submissões. Eles fornecem feedback e uma decisão de aceitação ou rejeição..
 
 
-## Evolução
-### **08/04**
-1. DDL: Criando o banco de dados 'Comercio' e suas tabelas iniciais
+## Desenvolvimento do Modelo Conceitual e suas Cardinalidades
+### **19/04**
+![DER - Diagrama Entidade - Relacionamento](https://github.com/user-attachments/assets/671152c0-cc3b-40fd-a25a-a0df52432226)
 
 
-### **09/04**
-1. DML: Realizando operações de CRUD (inserção, leitura, atualização e deleção) de dados.
-2. DDL: utilizando o ALTER TABLE.
+## FERRAMENTAS UTILIZADAS EM TODO O DESENVOLVIMENTO DO PROJETO
+1. Visual Paradigm -> Modelo Conceitual
 
 
-# Prós e Contras do ALTER TABLE
-## Prós:
-
-✅ Permite adaptar a estrutura da tabela sem perder dados existentes
-✅ Evita recriação manual da tabela e migração de dados
-✅ Útil para manter o banco alinhado com mudanças no sistema
-
-## Contras:
-
-⚠️ Pode bloquear a tabela durante a execução (em bancos grandes)
-⚠️ Alterações mal planejadas podem impactar a performance
-⚠️ Riscos de inconsistência se não for bem testado antes
 
 
-### **10/04**
-1. Carga do banco de dados com dados gerados aleatoriamente
-2. Importação do banco de dados Comercio para o MYSQL
-3. Conexão do banco de dados com o PowerBI
-4. Realizar algumas análises simples no POWERBI
 
---- Ignorancia Zero - Youtube
+
+
 
