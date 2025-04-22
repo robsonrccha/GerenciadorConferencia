@@ -23,8 +23,8 @@
 - Correção dos atributos, incluindo atributos simples, multivalorados e compostos
 - Organização visual do DER
 
-  ### **22/04/2025**
-  - Versão final do modelo conceitual
+### **22/04/2025**
+ - Versão final do modelo conceitual
   
 ![DER - Modelo Conceitual](https://github.com/user-attachments/assets/25051d88-fe08-4fcc-bada-5b176af65542)
 
