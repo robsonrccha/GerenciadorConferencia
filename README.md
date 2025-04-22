@@ -12,8 +12,13 @@
 
 
 ## Desenvolvimento do Modelo Conceitual e suas Cardinalidades
-### **19/04**
-![DER - Diagrama Entidade - Relacionamento](https://github.com/user-attachments/assets/671152c0-cc3b-40fd-a25a-a0df52432226)
+### **19/04/2025**
+- Criação do modelo conceitual, tabelas e relacionamentos
+
+### **21/04/2025**
+- Correção das tabelas e relacionamentos
+- Inserção dos atributos
+![DER - DIAGRAMA ENTIDADE-RELACIONAMENTO](https://github.com/user-attachments/assets/f75c86b9-5930-4c3e-b5c7-91dcb7de7802)
 
 
 ## FERRAMENTAS UTILIZADAS EM TODO O DESENVOLVIMENTO DO PROJETO
