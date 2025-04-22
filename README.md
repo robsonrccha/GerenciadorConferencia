@@ -22,12 +22,17 @@
 ### **22/04/2025**
 - Correção dos atributos, incluindo atributos simples, multivalorados e compostos
 - Organização visual do DER
-![DER - Modelo Conceitual](https://github.com/user-attachments/assets/86e36961-4211-4b35-a168-2e0d3ee996e5)
+
+  ### **22/04/2025**
+  - Versão final do modelo conceitual
+  
+![DER - Modelo Conceitual](https://github.com/user-attachments/assets/25051d88-fe08-4fcc-bada-5b176af65542)
+
 
 
 
 ## FERRAMENTAS UTILIZADAS EM TODO O DESENVOLVIMENTO DO PROJETO
-1. Visual Paradigm -> Modelo Conceitual
+1. Visual Paradigm
 
 
 
