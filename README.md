@@ -28,8 +28,18 @@
   
 ![DER - Modelo Conceitual](https://github.com/user-attachments/assets/25051d88-fe08-4fcc-bada-5b176af65542)
 
+---
+
+## Desenvolvimento do Modelo Lógico
+### **29/04/2025**
+- Transformando as entidades do modelo conceitual em tabelos no modelo lógico
+- padronização dos nomes das tabelas e atributos
+  
+  ![image](https://github.com/user-attachments/assets/8124a36c-150b-4f90-acb4-2c99b2da75d6)
 
 
+
+---
 
 ## FERRAMENTAS UTILIZADAS EM TODO O DESENVOLVIMENTO DO PROJETO
 1. Visual Paradigm
