@@ -39,7 +39,8 @@
 - Definição das chaves primárias (PK) e das chaves estrangeiras (FK)
 - Versão final do modelo lógico
 
-![Modelo Logico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/ff9e28d1-19e8-4926-8318-1cf063358fe0)
+![Modelo Logico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/fbb2a742-a5de-4173-8318-7749a105c579)
+
 
 
 
