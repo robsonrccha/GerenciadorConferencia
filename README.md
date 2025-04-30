@@ -1,4 +1,4 @@
-# Projeto proposto pelo curso de Modelagem de Dados - Alura
+# Projeto Modelagem de Dados - Gerenciador de Conferências
 
 
 ## Introdução aos Requisitos
@@ -26,7 +26,7 @@
 ### **22/04/2025**
  - Versão final do modelo conceitual
   
-![DER - Modelo Conceitual](https://github.com/user-attachments/assets/25051d88-fe08-4fcc-bada-5b176af65542)
+![Modelo Conceitual - Gerenciador de Conferencias](https://github.com/user-attachments/assets/25051d88-fe08-4fcc-bada-5b176af65542)
 
 ---
 
@@ -35,13 +35,18 @@
 - Transformando as entidades do modelo conceitual em tabelos no modelo lógico
 - padronização dos nomes das tabelas e atributos
   
-  ![image](https://github.com/user-attachments/assets/8124a36c-150b-4f90-acb4-2c99b2da75d6)
+### **30/04/2025**
+- Definição das chaves primárias (PK) e das chaves estrangeiras (FK)
+- Versão final do modelo lógico
+
+![Modelo Logico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/ff9e28d1-19e8-4926-8318-1cf063358fe0)
+
 
 
 
 ---
 
-## FERRAMENTAS UTILIZADAS EM TODO O DESENVOLVIMENTO DO PROJETO
+## FERRAMENTA UTILIZADA EM TODO O DESENVOLVIMENTO DO PROJETO
 1. Visual Paradigm
 
 
