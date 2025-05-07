@@ -39,7 +39,14 @@
 - Definição das chaves primárias (PK) e das chaves estrangeiras (FK)
 - Versão final do modelo lógico
 
-![Modelo Logico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/fbb2a742-a5de-4173-8318-7749a105c579)
+### **07/05/2025**
+- Correção dos nomes das tabelas do Modelo Lógico
+- Realizado a normalização da Tabela Conferência (incluido uma nova tabela Endereço - como nos requisitos não faz menção as conferencias mudarem de região subentende-se que as confêrencias possuem locais fixos. Com isso cada conferência só pode ocorrer em 1 e maximo 1 endereço e o endereço esta vinculado a uma 1 conferência por vez.)
+
+![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/d33722e3-6a1c-4738-a979-3918b510241f)
+
+
+
 
 
 
