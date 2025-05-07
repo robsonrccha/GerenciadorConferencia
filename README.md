@@ -41,9 +41,13 @@
 
 ### **07/05/2025**
 - Correção dos nomes das tabelas do Modelo Lógico
-- Realizado a normalização da Tabela Conferência (incluido uma nova tabela Endereço - como nos requisitos não faz menção as conferencias mudarem de região subentende-se que as confêrencias possuem locais fixos. Com isso cada conferência só pode ocorrer em 1 e maximo 1 endereço e o endereço esta vinculado a uma 1 conferência por vez.)
+- Realizado a 1FN (Tabela Endereço)
+- Realizado a 2FN (Tabela Coordenador, Palestrante)
+- Correção dos relacionamentos após normalizações
 
-![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/d33722e3-6a1c-4738-a979-3918b510241f)
+![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/fb79b271-7b54-4d14-90c2-fbbc715dece2)
+
+
 
 
 
