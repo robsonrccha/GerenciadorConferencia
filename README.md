@@ -45,7 +45,8 @@
 - Realizado a 2FN (Tabela Coordenador, Palestrante)
 - Correção dos relacionamentos após normalizações
 
-![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/fb79b271-7b54-4d14-90c2-fbbc715dece2)
+![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/796f1974-5610-4a7e-b2c8-fcef73f75044)
+
 
 
 
