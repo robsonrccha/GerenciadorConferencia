@@ -44,6 +44,7 @@
 - Realizado a 1FN (Tabela Endereço)
 - Realizado a 2FN (Tabela Coordenador, Palestrante)
 - Correção dos relacionamentos após normalizações
+- Realizado a 3FN
 
 ![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/796f1974-5610-4a7e-b2c8-fcef73f75044)
 
