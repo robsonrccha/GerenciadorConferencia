@@ -48,9 +48,11 @@
 
 ![Modelo Lógico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/796f1974-5610-4a7e-b2c8-fcef73f75044)
 
+---
 
-
-
+## Desenvolvimento do Modelo Físico
+### **19/05/2025**
+- Definido os tipos de dados dos atributos e as restrições.
 
 
 
