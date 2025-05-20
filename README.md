@@ -54,6 +54,14 @@
 ### **19/05/2025**
 - Definido os tipos de dados dos atributos e as restrições.
 
+### **20/05/2025**
+- Inclusão dos relacionamentos no modelo fisico
+- Correção das chaves estrangeiras(não foram atribuidas durante os relacionamentos do Modelo Lógico)
+- Correção entre o relacionamento das Tabelas Submissao - Participante para Submissao - Palestrante
+
+![Modelo Físico - Gerenciador de Conferencias](https://github.com/user-attachments/assets/68654503-46d1-4043-ac6d-8c40e5171943)
+
+
 
 
 
